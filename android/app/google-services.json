@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "205824602388",
+    "project_id": "mediapp-75e55",
+    "storage_bucket": "mediapp-75e55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205824602388:android:c9aa3c1151dd9e909a9201",
+        "android_client_info": {
+          "package_name": "com.example.doctor_qppointment_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuAPrIjO4AVP45FQkLCh2s6MPpChOQou0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
